@@ -2,6 +2,8 @@
 
 **One launcher. Version 1.0.** Unofficial. Not 2K. Not Turtle Rock.
 
+This 1.0 **started from [evolve-revival/evolve-launcher](https://github.com/evolve-revival/evolve-launcher)**. That is the OG source. This org repo is the current build, not a GitHub fork, and not a claim that the launcher began here.
+
 This started in the [Evolve Revival Discord](https://discord.gg/m2rqJNuKfJ). That is where the files, RiceFix, and the people still playing live.
 
 > [!IMPORTANT]
