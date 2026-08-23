@@ -1,4 +1,4 @@
-﻿# Evolve Revival
+# Evolve Revival
 
 **One launcher. Version 1.0.** Unofficial. Not 2K. Not Turtle Rock.
 
