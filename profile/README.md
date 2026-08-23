@@ -13,6 +13,3 @@ This started in the [Evolve Revival Discord](https://discord.gg/m2rqJNuKfJ). Tha
 2. Install [Radmin VPN](https://www.radmin-vpn.com/) from the official site.
 3. Grab `evolve-launcher.exe` from [this repo](https://github.com/DISRVPT-DEV/evolve-launcher/tree/main/release/EvolveRevival-Launcher).
 4. First run downloads the game. Host or join on the same Radmin network.
-
-**Add DISRVPT on Discord:** [discord.gg/m2rqJNuKfJ](https://discord.gg/m2rqJNuKfJ) then add **DISRVPT**.
-
